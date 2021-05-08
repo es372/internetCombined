@@ -10,3 +10,10 @@
 .row {
     padding: 20px;
 }
+
+.footer {
+    display: grid;
+    justify-items: center;
+    background-color: darkgray;
+    margin-top: 30px;
+}
